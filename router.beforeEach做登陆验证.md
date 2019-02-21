@@ -3,7 +3,9 @@
 ## 1.vue router
 
 路由判断首先我们想到的是router.beforeEach 前置导航守卫 ，这个方法接受三个参数 to from next 。
+
 to参数为即将跳转的路由路径，from为当前导航正要离开的路由，next方法用来resolve这个钩子。
+
 下面以工作中写的一个判断为为例子：
 
 ```javascript
@@ -28,6 +30,7 @@ router.beforeEach(async (to, from, next) => {
 ## this.$router 与 this.$route   this.$router.push 与 this.$router.replace
 
 在登录页完成登录请求后进行下面的操作
+
 获取路径中存放前一个路径的参数 ,然后跳转到该页面
 
 ```javascript
