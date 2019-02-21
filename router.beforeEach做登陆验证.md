@@ -25,7 +25,7 @@ router.beforeEach(async (to, from, next) => {
 ```
 
 
-##. this.$router 与 this.$route   this.$router.push 与 this.$router.replace
+## this.$router 与 this.$route   this.$router.push 与 this.$router.replace
 
 在登录页完成登录请求后进行下面的操作
 获取路径中存放前一个路径的参数 ,然后跳转到该页面
