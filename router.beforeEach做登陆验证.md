@@ -1,6 +1,6 @@
 # router.beforeEach做登陆验证
 
-## 1.vue router
+## vue router
 
 路由判断首先我们想到的是router.beforeEach 前置导航守卫 ，这个方法接受三个参数 to from next 。
 
@@ -27,7 +27,7 @@ router.beforeEach(async (to, from, next) => {
 ```
 
 
-## this.$router 与 this.$route   this.$router.push 与 this.$router.replace
+## 2this.$router 与 this.$route   this.$router.push 与 this.$router.replace
 
 在登录页完成登录请求后进行下面的操作
 
