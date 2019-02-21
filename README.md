@@ -11,6 +11,8 @@
 ## vue-router
 
 * [在路由中实现按需加载的3种方式：vue异步组件、es提案的import()、webpack的require.ensure()](https://segmentfault.com/a/1190000011519350)
+* [页面切换后让滚动条默认到最顶部](页面切换后让滚动条默认到最顶部.md)
+
 
 
 
