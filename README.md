@@ -1,9 +1,12 @@
 # Vue 学习
 
+## Vue
+* [单向数据流 和 使用$emit改变props](单向数据流 和 使用$emit改变props.md)
 
 
 ## Vuex
 * [vuex简单总结](https://github.com/hk029/front-end/blob/master/framework/vue/vuex.md)
+
 
 ## vue-router
 
