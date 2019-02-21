@@ -1,7 +1,7 @@
 # Vue 学习
 
 ## Vue
-* [单向数据流 和 使用$emit改变props](单向数据流 和 使用$emit改变props.md)
+* [单向数据流 和 使用$emit改变props](./单向数据流 和 使用$emit改变props.md)
 
 
 ## Vuex
