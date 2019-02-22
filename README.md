@@ -6,6 +6,8 @@
 
 ## Vuex
 * [vuex简单总结](https://github.com/hk029/front-end/blob/master/framework/vue/vuex.md)
+* [vuex入门教程和思考](https://segmentfault.com/a/1190000008861913)
+
 
 
 ## vue-router
