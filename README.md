@@ -8,6 +8,12 @@
 * [vuex简单总结](https://github.com/hk029/front-end/blob/master/framework/vue/vuex.md)
 * [vuex入门教程和思考](https://segmentfault.com/a/1190000008861913)
 
+* [vuex 基本入门和使用（一）](https://segmentfault.com/a/1190000012821715)
+* [vuex 基本入门和使用（二）](https://segmentfault.com/a/1190000012807048)
+* [vuex 基本入门和使用（三）-关于 mutation](https://segmentfault.com/a/1190000012878534)
+* [vuex 基本入门和使用（四）-关于 action](https://segmentfault.com/a/1190000012966641)
+
+
 
 
 ## vue-router
