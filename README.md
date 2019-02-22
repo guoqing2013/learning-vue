@@ -9,6 +9,7 @@
 * [**vuex中文文档**](https://vuex.vuejs.org/zh/)
 * [vuex简单总结](https://github.com/hk029/front-end/blob/master/framework/vue/vuex.md)
 * [vuex入门教程和思考](https://segmentfault.com/a/1190000008861913)
+* [后台api交互逻辑放到vuex中的action处理](后台api交互逻辑放到vuex中的action处理.md)
 
 * [vuex 基本入门和使用（一）](https://segmentfault.com/a/1190000012821715)
 * [vuex 基本入门和使用（二）](https://segmentfault.com/a/1190000012807048)
@@ -24,6 +25,8 @@
 * [在路由中实现按需加载的3种方式：vue异步组件、es提案的import()、webpack的require.ensure()](https://segmentfault.com/a/1190000011519350)
 * [页面切换后让滚动条默认到最顶部](页面切换后让滚动条默认到最顶部.md)
 * [router.beforeEach做登陆验证](router.beforeEach做登陆验证.md)
+
+
 
 
 * [路由 vue-router 的使用详解1（安装配置、基本用法）](http://www.hangge.com/blog/cache/detail_2120.html)
