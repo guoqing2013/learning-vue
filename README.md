@@ -2,6 +2,8 @@
 
 ## Vue
 * [单向数据流和使用$emit改变props](单向数据流和使用$emit改变props.md)
+* [vuejs组件通信精髓归纳](https://segmentfault.com/a/1190000018241972)
+
 
 
 ## Vuex
