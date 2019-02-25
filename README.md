@@ -46,7 +46,7 @@
 
 ## 
 * [Lazy Load Vue.js Components When They Become Visible）](https://markus.oberlehner.net/blog/lazy-load-vue-components-when-they-become-visible/)
-
+* [Skeleton Loading Animation with Vue.js](https://markus.oberlehner.net/blog/skeleton-loading-animation-with-vue/)
 
 
 
