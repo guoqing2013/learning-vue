@@ -44,6 +44,9 @@
 * [路由 vue-router 的使用详解9（导航前、后自动获取数据）](http://www.hangge.com/blog/cache/detail_2152.html)
 * [路由 vue-router 的使用详解10（嵌套路由、二级路由）](http://www.hangge.com/blog/cache/detail_2151.html)
 
+## 
+* [Lazy Load Vue.js Components When They Become Visible）](https://markus.oberlehner.net/blog/lazy-load-vue-components-when-they-become-visible/)
+
 
 
 
