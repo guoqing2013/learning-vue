@@ -3,6 +3,7 @@
 ## Vue
 * [单向数据流和使用$emit改变props](单向数据流和使用$emit改变props.md)
 * [vuejs组件通信精髓归纳](https://segmentfault.com/a/1190000018241972)
+* [vue.js自定义组件上使用v-model](https://juejin.im/post/5afd95fa6fb9a07a9e4d72a8)
 * [递归组件、自定义组件使用 v-model、使用$compile()在指定上下文中手动编译组件、内联模板inline-template、隐式创建 Vue 实例](https://div.io/topic/1880)
 
 
