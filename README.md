@@ -1,5 +1,7 @@
 # Vue 学习
 
+
+
 ## Vue
 * [单向数据流和使用$emit改变props](单向数据流和使用$emit改变props.md)
 * [vuejs组件通信精髓归纳](https://segmentfault.com/a/1190000018241972)
@@ -16,8 +18,6 @@
 * [vuex入门教程和思考](https://segmentfault.com/a/1190000008861913)
 * [后台api交互逻辑放到vuex中的action处理](后台api交互逻辑放到vuex中的action处理.md)
 * [Vuex 模块化+命名空间后, 如何调用其他模块的 state, actions, mutations, getters](https://segmentfault.com/a/1190000009434398)
- 
-
 * [vuex 基本入门和使用（一）](https://segmentfault.com/a/1190000012821715)
 * [vuex 基本入门和使用（二）](https://segmentfault.com/a/1190000012807048)
 * [vuex 基本入门和使用（三）-关于 mutation](https://segmentfault.com/a/1190000012878534)
