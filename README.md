@@ -14,6 +14,7 @@
 * [vue2.0 组件通信](https://lz5z.com/vue2%E7%BB%84%E4%BB%B6%E9%80%9A%E4%BF%A1/)
 * [vue-cli3 从搭建到优化](https://juejin.im/post/5c3c544c6fb9a049d37f5903#heading-14)
 * **[vue-cli4 全面配置](https://github.com/staven630/vue-cli4-config#spritesmith)**
+* [理顺8个版本vue的区别](https://segmentfault.com/a/1190000014310246)
 
 
 
