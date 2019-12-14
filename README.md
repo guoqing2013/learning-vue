@@ -12,6 +12,7 @@
 * [递归组件、自定义组件使用 v-model、使用$compile()在指定上下文中手动编译组件、内联模板inline-template、隐式创建 Vue 实例](https://div.io/topic/1880)
 * [Vue.js 生命周期和route的生命周期讲解](https://www.jianshu.com/p/e9f884b6ba6c)
 * [vue2.0 组件通信](https://lz5z.com/vue2%E7%BB%84%E4%BB%B6%E9%80%9A%E4%BF%A1/)
+* [vue-cli3 从搭建到优化](https://juejin.im/post/5c3c544c6fb9a049d37f5903#heading-14)
 
 
 
