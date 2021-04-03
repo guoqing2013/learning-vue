@@ -16,6 +16,8 @@
 * **[vue-cli4 全面配置](https://github.com/staven630/vue-cli4-config#spritesmith)**
 * [理顺8个版本vue的区别](https://segmentfault.com/a/1190000014310246)
 
+### 插槽
+* [vue 2.6 插槽更新 v-slot 用法总结](https://segmentfault.com/a/1190000018441566)
 
 
 ## Vuex
